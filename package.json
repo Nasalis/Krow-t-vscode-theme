@@ -3,7 +3,7 @@
     "displayName": "Krow-T",
     "description": "A theme for dark themes and crows loving developers",
     "version": "0.0.1",
-    "publisher": "Nasalis",
+    "publisher": "DavidosSantosFreitas",
     "engines": {
         "vscode": "^1.60.0"
     },
