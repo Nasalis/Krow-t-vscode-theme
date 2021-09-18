@@ -1,0 +1,28 @@
+{
+    "name": "krow-t",
+    "displayName": "Krow-T",
+    "description": "A theme for dark themes and crows loving developers",
+    "version": "0.0.1",
+    "publisher": "Nasalis",
+    "engines": {
+        "vscode": "^1.60.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "icon": "assets/krow-t-logo-small.png",
+    "contributes": {
+        "themes": [
+            {
+                "label": "Krow-T",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Krow-T-color-theme.json"
+            }
+        ]
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Nasalis/Krow-t-vscode-theme.git"
+    },
+    "homepage": "https://github.com/Nasalis/Krow-t-vscode-theme/blob/main/README.md"
+}

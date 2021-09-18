@@ -1,13 +1,13 @@
-# README
-## This is the README for your extension "krow-t"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+## Krow-T
+This theme was designed based on dark theme colors such as Monokai and Conde Sand Box colors. 
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
+### 🏠 [Homepage](https://github.com/Nasalis/Krow-t-vscode-theme.git)
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+## Install
 
-**Enjoy!**
+Install it from VS Code extensions.
+
+>Open VS Code extensions and type `Krow-t`.
+## Author
+
+👤 **Davi dos Santos**
