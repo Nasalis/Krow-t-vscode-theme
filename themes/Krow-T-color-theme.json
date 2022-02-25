@@ -1235,6 +1235,13 @@
 		}
 	  },
 	  {
+		"scope": "meta.function.method.with-arguments.ruby",
+		"settings": {
+			"foreground": "#FD971F",
+			"fontStyle": "italic"
+		}
+	  },
+	  {
 		"name": "constant.language.symbol.ruby",
 		"scope": "constant.language.symbol.ruby",
 		"settings": {
@@ -1825,6 +1832,27 @@
 		],
 		"settings": {
 		  "foreground": "#f92672"
+		}
+	  },
+	  {
+		"name": "parameter.variable.function.elixir",
+		"scope": "meta.function.definition.elixir",
+		"settings": {
+		"foreground": "#FD971F",
+
+		}
+	  },
+	  {
+		  "scope": "keyword.operator.other.elixir",
+		  "settings": {
+			"foreground": "#F92672",
+			"fontStyle": "bold"
+		  }
+	  },
+	  {
+		"scope": "entity.name.function-call.elixir",
+		"settings": {
+			"foreground": "#48ACFF",
 		}
 	  },
 	  {
