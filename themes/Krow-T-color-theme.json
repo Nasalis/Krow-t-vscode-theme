@@ -29,10 +29,60 @@
 		}
 	  },
 	  {
+		"scope": [
+			"keyword.operator.double-colon.haskell",
+			"keyword.operator.infix.haskell",
+			"keyword.operator.eq.haskell"
+		],
+		"settings": {
+			"foreground": "#f92672",
+			"fontStyle": "bold"
+		}
+	  },
+	  {
+		"scope": "keyword.operator.infix.tight.at.haskell",
+		"settings": {
+			"foreground": "#f92672",
+			"fontStyle": "normal"
+		}
+	  },
+	  {
+		"scope": "variable.other.generic-type.haskell",
+		"settings": {
+			"foreground": "#FD971F",
+			"fontStyle": "normal"
+		}
+	  },
+	  {
+		"scope": [
+			"keyword.operator.arrow.haskell",
+			"keyword.other.where.haskell",
+			"keyword.operator.big-arrow.haskell",
+		],
+		"settings": {
+			"foreground": "#C678DD",
+			"fontStyle": "bold"
+		}
+	  },
+	  {
+		"scope": "keyword.operator.double-dot.haskell",
+		"settings": {
+			"foreground": "#48ACFF",
+			"fontStyle": "bold"
+		}
+	  },
+	  {
 		"name": "haskell storage type",
 		"scope": "storage.type.haskell",
 		"settings": {
 		  "foreground": "#2ed56f"
+		}
+	  },
+	  {
+		"scope": "keyword.operator.pipe.haskell",
+		"settings": {
+			"foreground": "#C678DD",
+			"fontStyle": "bold"
 		}
 	  },
 	  {
