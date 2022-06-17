@@ -1299,6 +1299,35 @@
 		}
 	  },
 	  {
+		"scope": "punctuation.definition.variable.ruby",
+		"settings": {
+			"foreground": "#48acff",
+			"fontStyle": "normal"
+		}
+	  },
+	  {
+		"scope": "variable.parameter.function.ruby",
+		"settings": {
+			"foreground": "#FD971F",
+			"fontStyle": "italic"
+
+		}
+	  },
+	  {
+		"scope": "punctuation.separator.arguments.ruby",
+		"settings": {
+			"foreground": "#c678dd",
+			"fontStyle": "bold"
+		}
+	  },
+	  {
+		"scope": "variable.other.block.ruby",
+		"settings": {
+			"foreground": "#48acff",
+			"fontStyle": "normal"
+		}
+	  },
+	  {
 		"name": "rgb-value",
 		"scope": "rgb-value",
 		"settings": {
