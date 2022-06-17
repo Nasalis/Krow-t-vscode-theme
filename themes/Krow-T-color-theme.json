@@ -1937,7 +1937,7 @@
 	"colors": {
 	  "foreground": "#d5d5d5",
 	  "focusBorder": "#1c2864",
-	  "selection.background": "#231d28",
+	  "selection.background": "#3b2951",
 	  "scrollbar.shadow": "#00000032",
 	  "activityBar.foreground": "#912ae6",
 	  "activityBar.background": "#151515",
